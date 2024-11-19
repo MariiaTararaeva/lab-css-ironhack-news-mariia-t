@@ -202,4 +202,17 @@ header {
   }
 }
 
-/* Second iteration nav
+/* Second iteration*/
+@media (max-width: 760px){
+  article {
+    display: block; 
+    margin: 10px 0; 
+    padding: 10px; 
+  }
+
+  .main-article .image {
+    width: 100%;
+    padding: 0;
+  }
+}
+
